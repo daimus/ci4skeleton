@@ -1,0 +1,619 @@
+CRITICAL - 2020-03-14 09:46:31 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:46:34 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:46:48 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:00 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:08 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:08 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:08 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:08 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:09 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:09 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:22 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:44 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:49 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:47:59 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:48:48 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:50:37 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 09:50:43 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:04:48 --> Undefined property: App\Controllers\Auth::$authentication
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\openserver\\d...', 19, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 10:06:56 --> Undefined property: App\Controllers\Auth::$authentication
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\openserver\\d...', 19, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 10:09:24 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:09:38 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:09:40 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:11:36 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:11:44 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:14:25 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:15:17 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:16:55 --> Class 'App\Controllers\APPPATH' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:17:06 --> Class 'Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:17:20 --> Class 'App\Libraries\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:18:29 --> Call to a member function register() on null
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 10:18:47 --> Too few arguments to function App\Libraries\Authentication::register(), 0 passed in C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php on line 26 and exactly 3 expected
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 10:20:13 --> Too few arguments to function App\Models\UserModel::__construct(), 0 passed in C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php on line 9 and exactly 1 expected
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(9): App\Models\UserModel->__construct()
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): App\Libraries\Authentication->__construct()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:22:09 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(16): CodeIgniter\Model->first()
+#5 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#6 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#12 {main}
+CRITICAL - 2020-03-14 10:22:09 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\openserver\\d...', 100, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php(100): print_r(Object(App\Controllers\Auth), true)
+#2 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(298): include('C:\\openserver\\d...')
+#3 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-14 10:22:27 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(16): CodeIgniter\Model->first()
+#5 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#6 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#12 {main}
+CRITICAL - 2020-03-14 10:22:27 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\openserver\\d...', 100, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php(100): print_r(Object(App\Controllers\Auth), true)
+#2 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(298): include('C:\\openserver\\d...')
+#3 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-14 10:22:40 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(16): CodeIgniter\Model->first()
+#5 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#6 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#12 {main}
+CRITICAL - 2020-03-14 10:22:40 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\openserver\\d...', 100, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php(100): print_r(Object(App\Controllers\Auth), true)
+#2 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(298): include('C:\\openserver\\d...')
+#3 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-14 10:23:04 --> Access denied for user ''@'localhost' (using password: NO)
+#0 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(16): CodeIgniter\Model->first()
+#5 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#6 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#12 {main}
+CRITICAL - 2020-03-14 10:23:04 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\openserver\\d...', 100, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Views\errors\html\error_exception.php(100): print_r(Object(App\Controllers\Auth), true)
+#2 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(298): include('C:\\openserver\\d...')
+#3 C:\openserver\domains\localhost\project\ems\system\Debug\Exceptions.php(171): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-14 10:31:09 --> Allowed fields must be specified for model: {0}
+#0 C:\openserver\domains\localhost\project\ems\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\User...')
+#1 C:\openserver\domains\localhost\project\ems\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\openserver\domains\localhost\project\ems\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#3 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(35): CodeIgniter\Model->save(Array)
+#4 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#10 {main}
+CRITICAL - 2020-03-14 10:32:40 --> Unknown column 'users.deleted_at' in 'where clause'
+#0 C:\openserver\domains\localhost\project\ems\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(29): CodeIgniter\Model->first()
+#6 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#7 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#10 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#13 {main}
+CRITICAL - 2020-03-14 10:32:58 --> Unknown column 'users.deleted_at' in 'where clause'
+#0 C:\openserver\domains\localhost\project\ems\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\openserver\domains\localhost\project\ems\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\openserver\domains\localhost\project\ems\app\Models\UserModel.php(29): CodeIgniter\Model->first()
+#6 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(20): App\Models\UserModel->isEmailExist('daimus.suudi@gm...')
+#7 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->register('daimus.suudi@gm...', '12345678', '12345678')
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#10 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#13 {main}
+CRITICAL - 2020-03-14 10:44:42 --> Trying to get property 'password' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 24, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:47:39 --> Cannot declare class App\Models\UserModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-14 10:49:36 --> Trying to get property 'id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 32, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:50:00 --> Cannot use object of type stdClass as array
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 10:51:11 --> Undefined variable: request
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 33, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:52:19 --> Undefined variable: request
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 36, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:52:41 --> Too few arguments to function CodeIgniter\HTTP\Request::__construct(), 0 passed in C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php on line 35 and exactly 1 expected
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(35): CodeIgniter\HTTP\Request->__construct()
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:54:50 --> Undefined property: App\Libraries\Authentication::$request
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\openserver\\d...', 37, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(22): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678')
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 10:57:22 --> Call to undefined method CodeIgniter\HTTP\UserAgent::agent()
+#0 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-14 11:06:17 --> Unknown column 'updated_at' in 'field list'
+#0 C:\openserver\domains\localhost\project\ems\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `at...')
+#1 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `at...')
+#2 C:\openserver\domains\localhost\project\ems\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `at...')
+#3 C:\openserver\domains\localhost\project\ems\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `at...', Array, false)
+#4 C:\openserver\domains\localhost\project\ems\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\openserver\domains\localhost\project\ems\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(35): CodeIgniter\Model->save(Array)
+#7 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(26): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678', Array)
+#8 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#9 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#10 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#13 {main}
+CRITICAL - 2020-03-14 12:12:41 --> Undefined variable: response
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 27, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 12:21:37 --> Undefined index: message
+#0 C:\openserver\domains\localhost\project\ems\app\Views\auth\login.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\openserver\\d...', 29, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ems\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(28): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-14 12:24:07 --> Undefined index: message
+#0 C:\openserver\domains\localhost\project\ems\app\Views\auth\login.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\openserver\\d...', 29, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ems\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(32): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-14 13:51:13 --> syntax error, unexpected '}'
+#0 C:\openserver\domains\localhost\project\ems\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\openserver\\d...')
+#1 C:\openserver\domains\localhost\project\ems\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#3 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): spl_autoload_call('App\\Libraries\\A...')
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-14 13:51:41 --> Class 'App\Config\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): App\Libraries\Authentication->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 13:52:52 --> Class 'App\Config\Authentication' not found
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): App\Libraries\Authentication->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 13:53:30 --> Class 'App\Config\Authenticationn' not found
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): App\Libraries\Authentication->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 13:53:51 --> Class 'App\Config\Authenticationn' not found
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(14): App\Libraries\Authentication->__construct()
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(882): App\Controllers\Auth->__construct()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 14:11:51 --> Trying to get property 'id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(122): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 122, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(47): App\Libraries\Authentication->createSession(Array)
+#2 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(25): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678', Array)
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-14 14:12:14 --> Trying to get property 'id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(122): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 122, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(47): App\Libraries\Authentication->createSession(Array)
+#2 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(25): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678', Array)
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-14 14:14:25 --> Trying to get property 'user_id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(122): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 122, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(47): App\Libraries\Authentication->createSession(Array)
+#2 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(25): App\Libraries\Authentication->login('daimus.suudi@gm...', '12345678', Array)
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-14 20:30:15 --> Undefined variable: session
+#0 C:\openserver\domains\localhost\project\ems\app\Views\auth\login.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 25, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ems\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(35): view('auth/login')
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-14 21:01:35 --> Trying to get property 'user_id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 155, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Home.php(18): App\Libraries\Authentication->getCurrentSession()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Home->admin()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 21:01:44 --> Trying to get property 'user_id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 155, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Home.php(18): App\Libraries\Authentication->getCurrentSession()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Home->admin()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 21:01:59 --> Trying to get property 'user_id' of non-object
+#0 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(157): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\openserver\\d...', 157, Array)
+#1 C:\openserver\domains\localhost\project\ems\app\Controllers\Home.php(18): App\Libraries\Authentication->getCurrentSession()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Home->admin()
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#7 {main}
+CRITICAL - 2020-03-14 23:34:11 --> Call to a member function insertID() on bool
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(43): App\Libraries\Authentication->register('Daimus Suudi', 'daimus.suudi@gm...', '12345678')
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-14 23:41:43 --> strpos() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strpos() expect...', 'C:\\openserver\\d...', 709, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\Email\Email.php(709): strpos(Object(CodeIgniter\Email\Email), ',')
+#2 C:\openserver\domains\localhost\project\ems\system\Email\Email.php(519): CodeIgniter\Email\Email->stringToArray(Object(CodeIgniter\Email\Email))
+#3 C:\openserver\domains\localhost\project\ems\app\Libraries\Authentication.php(83): CodeIgniter\Email\Email->setTo(Object(CodeIgniter\Email\Email))
+#4 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(43): App\Libraries\Authentication->register('Daimus Suudi', Object(CodeIgniter\Email\Email), '12345678')
+#5 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#6 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#10 {main}

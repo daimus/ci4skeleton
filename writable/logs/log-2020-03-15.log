@@ -1,0 +1,133 @@
+CRITICAL - 2020-03-15 01:12:02 --> Undefined variable: bW83T1FXaHA0R2V4VGlnYlpyOFZQYUZZdUQ5RUlBZlUzbnl6djVMdGRKTmxYMlNzazA=
+#0 C:\openserver\domains\localhost\project\ems\app\Controllers\Auth.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 58, Array)
+#1 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#2 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ems\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ems\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ems\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-15 07:35:45 --> Undefined variable: validation
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Views\auth\login.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 85, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(35): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-15 07:40:05 --> Call to undefined method CodeIgniter\Validation\Validation::validate()
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
+CRITICAL - 2020-03-15 07:45:49 --> Undefined variable: validation
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Views\auth\login.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 85, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(26): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-15 07:46:27 --> Undefined variable: errors
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 27, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-15 07:46:42 --> Undefined variable: errors
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 27, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#6 {main}
+CRITICAL - 2020-03-15 07:50:08 --> Undefined variable: validation
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Views\auth\login.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 90, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(27): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-15 07:57:00 --> {0} is not a valid rule.
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(287): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(175): CodeIgniter\Validation\Validation->processRules('password', 'Password', '12345678', Array, Array)
+#2 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(24): CodeIgniter\Validation\Validation->run()
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-15 07:58:04 --> {0} is not a valid rule.
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(287): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(175): CodeIgniter\Validation\Validation->processRules('password', 'Password', 'adadads', Array, Array)
+#2 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(24): CodeIgniter\Validation\Validation->run()
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-15 07:58:14 --> {0} is not a valid rule.
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(287): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(175): CodeIgniter\Validation\Validation->processRules('password', 'Password', 'adadads', Array, Array)
+#2 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(24): CodeIgniter\Validation\Validation->run()
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-15 08:00:42 --> {0} is not a valid rule.
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(287): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\Validation\Validation.php(175): CodeIgniter\Validation\Validation->processRules('password', 'Password', 'adadasda', Array, Array)
+#2 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(24): CodeIgniter\Validation\Validation->run()
+#3 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#8 {main}
+CRITICAL - 2020-03-15 08:19:44 --> Array to string conversion
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Views\auth\login.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\openserver\\d...', 88, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\Common.php(1071): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(37): view('auth/login', Array)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->login()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-15 08:37:18 --> Undefined variable: data
+#0 C:\openserver\domains\localhost\project\ci4skeleton\app\Views\email\email_verification.php(352): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\openserver\\d...', 352, Array)
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\View\View.php(236): include('C:\\openserver\\d...')
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\Common.php(1071): CodeIgniter\View\View->render('email/email_ver...', Array, true)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\app\Controllers\Auth.php(70): view('email/email_ver...', Array)
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->tes()
+#5 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#9 {main}
+CRITICAL - 2020-03-15 08:49:21 --> Call to undefined function App\Controllers\show_404()
+#0 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(910): App\Controllers\Auth->activate()
+#1 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\openserver\domains\localhost\project\ci4skeleton\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\openserver\domains\localhost\project\ci4skeleton\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\openserver\domains\localhost\project\ci4skeleton\system\Commands\Server\rewrite.php(34): require_once('C:\\openserver\\d...')
+#5 {main}
